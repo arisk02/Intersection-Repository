@@ -5,7 +5,7 @@ OBJS = simulation.o Animator.o VehicleBase.o ConfigParser.o
 #CC = clang++
 #CCFLAGS = -std=gnu++2a -stdlib=libc++
 
-#### use next two lines for mathcs* machines:
+#### use next two lines for linux machines:
 CC = g++
 CCFLAGS = -std=c++17
 
